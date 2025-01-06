@@ -15,7 +15,7 @@
             "dime sobre {pregunta}",
             "puedes responder {pregunta}",
             "qué sabes sobre {pregunta}",
-            "murdo {pregunta}"
+            "escarlet {pregunta}"
           ]
         },
         {
@@ -36,7 +36,7 @@
         }
       ],
       "types": [],
-      "invocationName": "don murdo"
+      "invocationName": "escarlet"
     }
   }
 }
